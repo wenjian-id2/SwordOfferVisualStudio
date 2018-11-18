@@ -1,0 +1,11 @@
+﻿Build started 2018/11/18 10:55:54.
+     1>Project "C:\Users\cluwe\Desktop\SwordOfferVisualStudio\SwordOffer\Dipingxian\Dipingxian.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\cluwe\Desktop\SwordOfferVisualStudio\SwordOffer\Debug\Dipingxian.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\cluwe\Desktop\SwordOfferVisualStudio\SwordOffer\Debug\Dipingxian.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\cluwe\Desktop\SwordOfferVisualStudio\SwordOffer\Debug\Dipingxian.lib" /MACHINE:X86 Debug\Dipingxian.obj
+         Debug\stdafx.obj
+         Dipingxian.vcxproj -> C:\Users\cluwe\Desktop\SwordOfferVisualStudio\SwordOffer\Debug\Dipingxian.exe
+     1>Done Building Project "C:\Users\cluwe\Desktop\SwordOfferVisualStudio\SwordOffer\Dipingxian\Dipingxian.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.69
